@@ -13,8 +13,8 @@ export default function Home() {
         <a 
             href="https://t.me/Mykhailo_Pron" target='_blank' rel='noreferrer'
             className='
-            rounded-[24px] transition duration-300 border-2 border-solid cursor-pointer border-red-600 px-[36px] py-[10px] text-base font-semibold flex items-center gap-[8px]
-            hover:border-black hover:bg-red-600 hover:text-white
+            rounded-[24px] transition duration-300 border-2 border-solid cursor-pointer border-[#f5a339] px-[36px] py-[10px] text-base font-semibold flex items-center gap-[8px]
+            hover:border-black hover:bg-[#f5a339] hover:text-white
             '
         >
             <p>Зв`язатись з нами</p>
